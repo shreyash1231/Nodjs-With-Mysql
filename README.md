@@ -1,4 +1,5 @@
-```CREATE DATABASE mydb;
+```
+CREATE DATABASE mydb;
 
 USE mydb;
 
